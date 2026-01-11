@@ -40,6 +40,8 @@ MyDownloaderFolder/
 2. Paste the m3u8 link (Master Playlist) when prompted.
 
    - Tip: You can find this link using the Developer Tools (F12) -> Network Tab in your browser.
+   - F12 -> Network Tab -> Filter for `m3u8` -> Get the link.
+   - If video has separate subtitles, Filter for `vtt` -> Get the link for preferred language.
 
 3. Wait for the analysis to complete.
 
